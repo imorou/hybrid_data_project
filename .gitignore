@@ -1,5 +1,8 @@
-# Terraform local files
+# Terraform
 .terraform/
 *.tfstate
 *.tfstate.backup
 *.tfplan
+
+# Optional: ignore local staging data if sensitive
+# *.sql
